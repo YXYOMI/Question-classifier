@@ -38,3 +38,4 @@ Please use the same configuration file path as training. Before testing the mode
 2. Before running 'test' mode, please be sure you have already finished training.
 3. The configuration files are located in `../data/configs/`, before running the program, please use the right configuration file for each model.
 4. If you run the program without `--config [configuration_file_path]`, the program would read the initial configuration file `../src/config.ini`, which is the pretrain_finetuned_bow setting.
+5. Please unzip all the zip file before running.
